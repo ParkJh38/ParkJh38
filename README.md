@@ -39,15 +39,10 @@
   <br>
 </div>
 
----
-<div align="center">
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ParkJh38&show_icons=true&theme=shadow_green" alt="GitHub Stats" style="height: 200px;">
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJh38&layout=compact&theme=shadow_green" alt="Most Used Languages" style="height: 200px;">
-  </div>
-</div>
+<div align="center"> 
+
+## 🏅Stats
+![ParkJh38's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJh38&show_icons=true&theme=shadow_green)
 
 
 
