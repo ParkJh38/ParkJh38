@@ -40,11 +40,8 @@
 </div>
 
 ---
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ParkJh38&show_icons=true&theme=shadow_green&card_width=450" alt="GitHub Stats" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJh38&layout=compact&theme=shadow_green&card_width=450" alt="Top Languages" style="height: 200px;">
-  </div>
-</div>
+![ParkJh38's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJh38&show_icons=true&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJh38&layout=compact)
+
 
 
