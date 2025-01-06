@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   </div>
 
-
   <!-- 3층: 프레임워크 / 라이브러리 -->
   <div>
     <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
@@ -24,7 +23,6 @@
     <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
     <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
   </div>
-
 
   <!-- 4층: 도구 / 플랫폼1 -->
   <div>
